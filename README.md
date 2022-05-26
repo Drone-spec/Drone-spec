@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Drone-spec
+- 🥵 Hi, I’m @Drone-spec
 - 👀 I’m interested in ...
-- Cyber Security and moving away from being a skidiot.
+- Cyber Security
+- Moving away from being a skidiot.
 - 🌱 I’m currently learning ...
-- Rust, ReverseBE, and Scripting
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🦀 Rust, 
+- 🐉 ReverseBE
+- 🥸 Scripting
+
+- Never learned to code before but I am starting with Rust. Boy howdy 🤠 is it a freaking struggle.
 
 <!---
 Drone-spec/Drone-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
