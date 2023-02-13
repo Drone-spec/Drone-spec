@@ -1,13 +1,18 @@
 - 🥵 Hi, I’m @Drone-spec
-- 👀 I’m interested in ...
-- Cyber Security
-- Moving away from being a skidiot.
-- 🌱 I’m currently learning ...
-- 🦀 Rust, 
-- 🐉 ReverseBE
-- 🥸 Scripting
+## Intro
 
-- Never learned to code before but I am starting with Rust. Boy howdy 🤠 is it a freaking struggle.
+Yo yo dudes whats up, welcome to my github page.
+
+Hopefully in the time that you see this my page is not empty. Currenty being kept ultra busy and my notes are garbo at best. I try to keep it light and full of swears. I will always be honest with my opinions on many many tech related topics.
+
+## Tasks
+- I am working on more content to provide for peeps on a wide range of topics.
+- Building ranges to provide some training places
+- Building a CTF which I hope to share 
+- IDK a lot depends on if I re-enlist
+
+## Side notes
+I have a ton of handles but if you need to find me just message me. I love to chat about nothing for WAY too long.
 
 <!---
 Drone-spec/Drone-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
