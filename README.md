@@ -15,3 +15,7 @@ I hope something here strikes your fancy.
 Drone-spec/Drone-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## CTF Stuff
+
+Second Place at Hack The Rails2023 (ICS)
