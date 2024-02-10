@@ -19,3 +19,16 @@ You can click the Preview link to take a look at your changes.
 ## CTF Stuff
 
 Second Place at Hack The Rails2023 (ICS)
+
+
+## Certifications
+
+### Offensive Security
+OSWP - Enjoyed it was a fun test.
+OSCP - Enjoyed it was a very fun experience.
+
+### Comptia
+SEC+ - Was my first cert in the industry, Decent for beginners.
+
+### Scams
+CEH - Worst test of my life, Legit a complete fraud and scam company.
