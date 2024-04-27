@@ -24,8 +24,14 @@ Second Place at Hack The Rails2023 (ICS)
 ## Certifications
 
 ### Offensive Security
+
 OSWP - Enjoyed it was a fun test.
+
 OSCP - Enjoyed it was a very fun experience.
+
+OSEP - Good, Very stressful testing experience.
+
+OSED - Inprogress 💀
 
 ### Comptia
 SEC+ - Was my first cert in the industry, Decent for beginners.
