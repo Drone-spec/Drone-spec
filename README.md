@@ -31,7 +31,11 @@ OSCP - Enjoyed it was a very fun experience.
 
 OSEP - Good, Very stressful testing experience.
 
-OSED - Inprogress 💀
+OSED - Amazing time. Too bad its the Easy mode of Exploit Development.
+
+OSWE - Inprogress 💀
+
+OSEE - 😰 Soon
 
 ### Comptia
 SEC+ - Was my first cert in the industry, Decent for beginners.
