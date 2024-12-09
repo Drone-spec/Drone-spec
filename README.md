@@ -1,9 +1,9 @@
 
 ## Cold Intro
-- 🥵 Hi, I’m @Drone-spec
-Yo yo dudes what's up, welcome to my GitHub page.
+🥵 Hi, I’m @Drone-spec
 
-I hope something here strikes your fancy.
+Yo yo dudes what's up, welcome to my GitHub page.
+I hope something here strikes your fancy but if not that is cool.
 
 ## Tasks
 - I am working on more content to provide for peeps on a wide range of topics.
