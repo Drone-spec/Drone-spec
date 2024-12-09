@@ -1,6 +1,6 @@
-- 🥵 Hi, I’m @Drone-spec
-## Intro
 
+## Cold Intro
+- 🥵 Hi, I’m @Drone-spec
 Yo yo dudes what's up, welcome to my GitHub page.
 
 I hope something here strikes your fancy.
@@ -10,7 +10,9 @@ I hope something here strikes your fancy.
 - Enjoying C and Rust
 - Trying to perfect my networks. 
 - Working on Malware development and odd side-projects. 
+### Current Music Vib
 
+Enough for you by Wisp (2024)
 <!---
 Drone-spec/Drone-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -42,3 +44,5 @@ SEC+ - Was my first cert in the industry, Decent for beginners.
 
 ### Scams
 CEH - Worst test of my life, Legit a complete fraud and scam company.
+
+
