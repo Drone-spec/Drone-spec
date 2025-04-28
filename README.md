@@ -35,7 +35,9 @@ OSEP - Good, Very stressful testing experience.
 
 OSED - Amazing time. Too bad its the Easy mode of Exploit Development.
 
-OSWE - Inprogress 💀
+OSWE - Automation was a ton of fun!
+
+OSCE^3 - What a trip
 
 OSEE - 😰 Soon
 
